@@ -1,5 +1,5 @@
 # Algebraic Organizer
-Formatter for Algebraic Calculations.
+This is a program that arranges simple algebraic requests. This program presents a sorted look at the problem and provides a solution.  
 
 
-In this project I begin wrapping up my 300 hours of studying Python
+300 Hours of Python
