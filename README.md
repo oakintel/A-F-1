@@ -1,5 +1,5 @@
 # Algebraic Organizer
-This is a program that arranges simple algebraic requests then presents a sorted look at the problem and provides a solution.  
+This is a program that arranges algebraic requests, presents a sorted look at the problem, and then provides a solution.  
 
 
 300 Hours of Python
